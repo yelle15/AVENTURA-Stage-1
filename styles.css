@@ -54,6 +54,9 @@ body{
     max-width: 100%;
     height: auto;
     border-radius: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .email{
     color: #6d2e46;
